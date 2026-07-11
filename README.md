@@ -13,10 +13,11 @@ This repository documents my practical journey, hands-on experiments, and techni
 
 ---
 
-### 2. Two Sequences of LEDs Blinking (Like Police)
+### 2. Two Sequences of LEDs Blinking (Flasher Circuit)
 * **Objective:** Implementing sequential timing control with multiple LEDs acting on independent outputs to simulate a signaling effect.
 * **Demonstration:**
-<!-- Drag and drop your video "1- Two sequences..." right below this line -->
+<img width="480" height="480" alt="1-TwosequencesofLedsblinkinglikepolice-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/395caa0c-f0bd-45bd-829b-f3c13fc7100d" />
+
 
 
 ---
