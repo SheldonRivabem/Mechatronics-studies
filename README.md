@@ -62,6 +62,29 @@ This repository documents my practical journey, hands-on experiments, and techni
 
 ---
 
+### 9. Active Buzzer
+* **Objective:** Implementing a continuous hardware-driven alert system. This experiment demonstrates how an active internal oscillator automatically generates a fixed-frequency beep using simple high/low voltage states (`digitalWrite`).
+* **Demonstration:**
+
+https://github.com/user-attachments/assets/d4d69878-2e6f-4239-bc57-0b1f3c7f6526
+
+---
+
+### 10. Passive Buzzer
+* **Objective:** Emulating distinct musical notes and controlling sound frequencies. The project utilizes the `tone()` function to send varying electronic pulses, allowing full control over pitch and duration on a non-oscillating membrane.
+* **Demonstration:**
+
+https://github.com/user-attachments/assets/c8b610a9-88ef-4213-8aef-553f27c90e17
+
+---
+
+### 11. LED RGB (Color Mixing)
+* **Objective:** Mastering Pulse Width Modulation (PWM) to create multi-color visual interfaces. By independently dosing Red, Green, and Blue sub-LED intensities from `0` to `255` via `analogWrite()`, the project simulates complex color integration for industrial status displays.
+* **Demonstration:**
+<img width="500" height="400" alt="10- LED RGB" src="https://github.com/user-attachments/assets/21074cb1-0e38-4999-9a3c-ea4cbec32fb8" />
+
+---
+
 ## 🚀 Next Steps
 * Move forward with electric motor controls and relay switches.
 * Study the integration of industrial and environmental sensors.
