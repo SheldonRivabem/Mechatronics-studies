@@ -85,6 +85,22 @@ https://github.com/user-attachments/assets/c8b610a9-88ef-4213-8aef-553f27c90e17
 
 ---
 
+### 12. Photoresistor (Light Theremin)
+* **Objective:** Mapping real-time analog light intensity readings to dynamic audio frequencies. By reading variable voltage from a Light Dependent Resistor (LDR) on pin A0 and mathematically scaling the values, the system drives a passive buzzer to emulate a pitch-bending optical instrument.
+* **Demonstration:**
+
+https://github.com/user-attachments/assets/31973904-0438-4c33-9f7c-3aa8e0c31e6f
+
+---
+
+### 13. Tilt Switch Alarm
+* **Objective:** Implementing a gravity-based binary state detector. This project utilizes the Arduino's internal `INPUT_PULLUP` resistor to read the physical open/closed states of a ball-tilt sensor, instantly triggering an audiovisual alert (LED and Buzzer) when a tilt or orientation change is detected.
+* **Demonstration:**
+
+https://github.com/user-attachments/assets/1abc21f0-c3e4-42c9-a2c8-0410a7ceeff2
+
+---
+
 ## 🚀 Next Steps
 * Move forward with electric motor controls and relay switches.
 * Study the integration of industrial and environmental sensors.
