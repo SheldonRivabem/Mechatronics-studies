@@ -109,4 +109,11 @@ https://github.com/user-attachments/assets/1abc21f0-c3e4-42c9-a2c8-0410a7ceeff2
 
 ---
 
+### 15. One Digit Led Segment Display (Digit Multiplexing)
+* **Objective:** Rendering numerical digits ($0$–$9$) on a single-digit 7-segment display using a pre-defined 2D lookup array. By mapping individual segment pin states (3 to 9) to parallel array values through digitalWrite(), the system sequentially cycles through numeric states to simulate a dynamic countdown and display interface.
+* **Demonstration:**
+<img width="600" height="480" alt="14-One Digit Led Segment Display (Digit Multiplexing)" src="https://github.com/user-attachments/assets/7e24b10d-bfca-49cc-a4f9-f2674ac82588" />
+
+---
+
 📫 LinkedIn: [Sheldon Rivabem](https://linkedin.com/in/sheldonrivabem88)
