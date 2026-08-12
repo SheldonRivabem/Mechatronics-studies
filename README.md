@@ -116,14 +116,6 @@ https://github.com/user-attachments/assets/1abc21f0-c3e4-42c9-a2c8-0410a7ceeff2
 
 ---
 
-### 14. Shift Register (8-Bit LED Control)
-* **Objective:** Expanding the Arduino's digital output capacity using a 74HC595 shift register. By sending serial bitstreams via shiftOut() across dataPin, clockPin, and latchPin, the system converts serial instructions into an 8-bit parallel output to drive an array of LEDs while conserving microcontroller GPIO pins.
-* **Demonstration:**
-
-<img width="600" height="480" alt="13 - Shift Register" src="https://github.com/user-attachments/assets/b5815dc3-6389-47c9-aef0-eda8ee683a59" />
-
----
-
 ### 15. One Digit Led Segment Display (Digit Multiplexing)
 * **Objective:** Rendering numerical digits ($0$–$9$) on a single-digit 7-segment display using a pre-defined 2D lookup array. By mapping individual segment pin states (3 to 9) to parallel array values through digitalWrite(), the system sequentially cycles through numeric states to simulate a dynamic countdown and display interface.
 * **Demonstration:**
