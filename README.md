@@ -121,5 +121,12 @@ https://github.com/user-attachments/assets/1abc21f0-c3e4-42c9-a2c8-0410a7ceeff2
 * **Demonstration:**
 <img width="600" height="480" alt="15-4DigitLEDSegmentDisplay-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8e5a1cf7-b209-43d0-a6ee-f7e9d8b21cf0" />
 
+---
+
+### 17. Servo Control via Analog Input (Knob Position Tracker)
+* **Objective:** Direct manual position control of a micro servo motor using an analog potentiometer interface. By reading continuous 10-bit analog voltage levels ($0\text{--}1023$) via pin A0 and mapping them through map() to a constrained angular range ($0^{\circ}\text{--}180^{\circ}$), the system translates manual physical displacement into a real-time PWM control signal to precisely position the motor shaft.
+* **Demonstration:**
+
+https://github.com/user-attachments/assets/b6fe2baf-b8d6-4025-ab30-c475cdf6d021
 
 📫 LinkedIn: [Sheldon Rivabem](https://linkedin.com/in/sheldonrivabem88)
