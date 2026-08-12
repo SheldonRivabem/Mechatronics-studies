@@ -127,7 +127,7 @@ https://github.com/user-attachments/assets/1abc21f0-c3e4-42c9-a2c8-0410a7ceeff2
 * **Objective:** Direct manual position control of a micro servo motor using an analog potentiometer interface. By reading continuous 10-bit analog voltage levels ($0\text{--}1023$) via pin A0 and mapping them through map() to a constrained angular range ($0^{\circ}\text{--}180^{\circ}$), the system translates manual physical displacement into a real-time PWM control signal to precisely position the motor shaft.
 * **Demonstration:**
 
-<img width="203" height="360" alt="16- Knob (Potentiometer+Sweep)" src="https://github.com/user-attachments/assets/b8f4a3f9-19a0-4907-970e-886989be9a6d" />
+<img width="400" height="400" alt="16-Knob (Potentiometer+Sweep)" src="https://github.com/user-attachments/assets/5c7ab116-3fe4-40c0-8eac-f7d35609e6c4" />
 
 
 📫 LinkedIn: [Sheldon Rivabem](https://linkedin.com/in/sheldonrivabem88)
